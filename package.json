@@ -1,7 +1,6 @@
 {
   "name": "js--game-of-life",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/NikSt4798/js--game-of-life/issues"
   },
-  "homepage": "https://github.com/NikSt4798/js--game-of-life#readme"
+  "homepage": "https://github.com/NikSt4798/js--game-of-life#readme",
+  "description": ""
 }
