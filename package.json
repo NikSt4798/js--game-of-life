@@ -16,5 +16,10 @@
     "url": "https://github.com/NikSt4798/js--game-of-life/issues"
   },
   "homepage": "https://github.com/NikSt4798/js--game-of-life#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "eslint": "^7.11.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1"
+  }
 }
