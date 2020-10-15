@@ -4,7 +4,7 @@
   "main": "index.js",
   "private": "true",
   "scripts": {
-    "test": "echo \"Error: no test specified\"",
+    "test": "jest",
     "lint": "prettier --check . && eslint .",
     "lint:fix": "prettier --write . && eslint . --fix",
     "start": "npx webpack-dev-server --mode development",
