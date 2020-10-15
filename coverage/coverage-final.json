@@ -1,0 +1,2 @@
+{"D:\\Projects\\js--game-of-life\\src\\testFunction.js": {"path":"D:\\Projects\\js--game-of-life\\src\\testFunction.js","statementMap":{"0":{"start":{"line":2,"column":2},"end":{"line":2,"column":23}}},"fnMap":{"0":{"name":"testFunction","decl":{"start":{"line":1,"column":24},"end":{"line":1,"column":36}},"loc":{"start":{"line":1,"column":39},"end":{"line":3,"column":1}},"line":1}},"branchMap":{},"s":{"0":1},"f":{"0":1},"b":{},"_coverageSchema":"1a1c01bbd47fc00a2c39e90264f33305004495a9","hash":"a2deab6d3e5b33a866e23afe5decd3cb8ed0e8c2"}
+}
