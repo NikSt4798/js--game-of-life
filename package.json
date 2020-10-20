@@ -50,6 +50,7 @@
     "*.js": [
       "prettier --write",
       "eslint --cache --fix"
-    ]
+    ],
+    "*.{css,md,yml}": "prettier --write"
   }
 }
